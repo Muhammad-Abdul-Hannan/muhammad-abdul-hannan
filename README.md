@@ -11,9 +11,6 @@ I build scalable web applications, clean APIs, and reliable automation systems.
 - 🐍 Python (Web Scraping, Automation, Data Extraction)
 
 
-## 🌐 Socials:
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0174bc8a0eb75f2c3d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-abdul-hannan-40bb5b1b3) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muhammad.abdulhannan.7927) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@MAHDeveloper) [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/mahannah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hannanryk121@gmail.com)
-
 # 💻 Tech Stack
 
 ## 🚀 Full Stack (MERN + Modern Web)
@@ -79,11 +76,10 @@ I build scalable web applications, clean APIs, and reliable automation systems.
 ![](https://nirzak-streak-stats.vercel.app/?user=Muhammad-Abdul-Hannan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Abdul-Hannan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🤝 Let's Connect
+## 🤝 Let's Connect
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0174bc8a0eb75f2c3d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-abdul-hannan-40bb5b1b3) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muhammad.abdulhannan.7927) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@MAHDeveloper) [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/mahannah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hannanryk121@gmail.com)
 
-- 💼 Upwork: (Add your link)
-- 📧 Email: hannanryk2@gmail.com
-- 🌍 Open to Full Stack & Freelance Opportunities
+🌍 Open to Full Stack & Freelance Opportunities
 
 ---
 
